@@ -1,7 +1,7 @@
 # ReadX
 ReadX is program pioneered to help health specalists analyze their recorded data around the globe. During my attendance at the AngelHack Hackathon a health organization called Doctos Without Boarders needed a software that can search words phonetically from their data. When their doctors record names around the world, similar names are inputted with different spellings. They needed to be able to search for one form of a name so that all the similar names pop-up in their search. ReadX will allow you to upload your own excel sheet so you can search for a word via how it sounds. Then you'll be able to search for a name and ReadX will output a list of words that are spelled differently but are the same name.  
 
-PLEASE INSTALL JEXCEL API FROM HERE IN ORDER TO RUN THE PROGRAM
+PLEASE INSTALL JEXCEL API FROM HERE BEFORE RUNNING THE PROGRAM
   https://sourceforge.net/projects/jexcelapi/files/jexcelapi/2.6.12/
 
 1. Change the directory in the 'List' class to point to your own excel sheet
