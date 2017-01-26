@@ -7,4 +7,4 @@ PLEASE INSTALL JEXCEL API FROM HERE BEFORE RUNNING THE PROGRAM
 1. Change the directory in the 'List' class to point to your own excel sheet
 2. The program is made to automatically detect the keywords 'NAME' and 'ALT_NAME' in the first row of the excel sheet so you'll need your names to be under those columns. You can change the keyword for the column with the list of names in the 'List' method
 3. Run the program and it should ask to search for a word
-4. It will output a list of words that are spelled verbatim as your search or similarly spelled words
+4. It will output a list of words that are spelled verbatim compared to your search or any similar words
